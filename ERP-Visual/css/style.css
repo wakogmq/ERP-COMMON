@@ -2,16 +2,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family:"Eras-Bold" serif;
 }
 
+@font-face {
+    font-family: "Eras-Bold";
+    src: url("/ERP-Visual/fonts/Eras-Bold/ErasBoldITC.ttf");
+}
 section{
     margin: 4%;
-
+    font-family:"Eras-Bold" serif;
 }
 div{
     padding: 3%;
 }
-
+.erp{
+    color: #26736E;
+}
 .flex{
     display: flex;
     flex-wrap: wrap;
@@ -35,6 +42,13 @@ div{
 .justi{
     text-align: justify;
 }
+p{
+    font-family:"Eras-Bold" serif;
+    color: #AEAEAE;
+}
 .cajas-po h2{
+color: #578885;
+}
+.cajas-info-home h3{
 color: #578885;
 }
