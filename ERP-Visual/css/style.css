@@ -52,3 +52,9 @@ color: #578885;
 .cajas-info-home h3{
 color: #578885;
 }
+.login, .crear-cuenta{
+border: #26736E solid 2px;
+}
+input{
+    background-color: #26736E;
+}
