@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+section{
+    margin: 4%;
+
+}
+div{
+    padding: 3%;
+}
+
 .flex{
     display: flex;
     flex-wrap: wrap;
@@ -19,4 +27,14 @@
 .col-12 {
     flex: 0 0 auto;
     width: 100%;
+}
+.center{
+    text-align: center;
+    justify-content: center;
+}
+.justi{
+    text-align: justify;
+}
+.cajas-po h2{
+color: #578885;
 }
