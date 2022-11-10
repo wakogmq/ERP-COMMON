@@ -58,8 +58,8 @@ nav ul li img{
     margin-top: 10px;
     width: 30px ;
 }
-.login, .crear-cuenta{
-border: #26736E solid 2px;
+.login {
+border: 2px solid #26736E  ;
 }
 input{
     background-color: #26736E;
