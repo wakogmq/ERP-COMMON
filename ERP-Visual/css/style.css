@@ -37,22 +37,24 @@ div{
     width: 100%;
 }
 
-/*
+
 nav{
     background-color: rgb(107, 107, 107);
+    margin-right: 1900px;
+    
     
 }
 
 nav ul li{
    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 30px 10px 100px 0px;
+    margin: 0px 10px 123px 0px;
     padding-left: 20px;
 }
 
 nav ul li a{
     color: black;
-    margin: 10px;
+    margin-left: 10px;
     text-decoration: none;
 }
 
@@ -66,7 +68,7 @@ border: 2px solid #26736E  ;
 input{
     background-color: #26736E;
 }
-*/
+
 
 
 
@@ -172,3 +174,29 @@ input{
   
   /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
   .show {display:block;}
+
+  /* Estilos tabla */
+  table{
+    width: 100%;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+  }
+  
+  th{
+    text-align: left;
+  }
+
+  #envios{
+    background-color: #26736E;
+  }
+
+  #compras{
+    background-color: #26736E;
+  }
