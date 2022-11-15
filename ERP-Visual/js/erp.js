@@ -13,6 +13,8 @@ function myFunction() {
       for (i = 0; i < dropdowns.length; i++) {
         var openDropdown = dropdowns[i];
         if (openDropdown.classList.contains('show')) {
+          var imgReplace = document.getElementsByClassName("imgdrop")[0];
+          imgReplace.src = "/ERP-Visual/images/dropopen.png";
           openDropdown.classList.remove('show');
         }
       }
