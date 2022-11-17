@@ -202,3 +202,27 @@ input{
   #compras{
     background-color: #26736E;
   }
+
+  table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border-width: 1px;
+    ;
+  }
+  
+  
+  th, td {
+    padding: 20px;
+    
+  }
+
+  tr {
+    border-style: outset;
+   
+  }
+
+  th, td{
+    border-style: none;
+  }
+
