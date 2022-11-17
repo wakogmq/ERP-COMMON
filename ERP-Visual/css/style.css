@@ -145,7 +145,6 @@ input{
 /* Dropdown Button */
 .dropbtn {
     color:  #26736E;
-   
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -170,6 +169,7 @@ input{
   /* Links inside the dropdown */
   .dropdown-content a {
     color: black;
+    font-size: 12px;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
