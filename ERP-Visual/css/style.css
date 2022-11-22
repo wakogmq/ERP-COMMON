@@ -39,25 +39,42 @@ div{
 }
 
 
+.col-2 {
+  flex: 0 0 auto;
+  width: 16.66666667%;
+}
+
+
 
 nav{
     background-color: rgb(107, 107, 107);
-    margin-right: 1900px;
     
+   
+    position: fixed;
+   
+    
+    text-align: center;
     
 }
 
 nav ul li{
    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 0px 10px 123px 0px;
-    padding-left: 20px;
+    margin: 0px 0px 70px 0px;
+    padding-top: 50px;
+    
+}
+
+nav ul li img{
+  max-width: 100%;
+  width: 30px;
 }
 
 nav ul li a{
     color: black;
     margin-left: 10px;
     text-decoration: none;
+    font-size: 20px;
 }
 .center {
   text-align: center;
@@ -196,19 +213,20 @@ input{
   }
 
   #envios{
-    background-color: #26736E;
+    background-color: #26736E ;
+   
   }
 
   #compras{
     background-color: #26736E;
   }
 
-  table {
+  .tabla {
     table-layout: fixed;
     width: 100%;
     border-collapse: collapse;
     border-width: 1px;
-    ;
+    
   }
   
   
@@ -219,7 +237,7 @@ input{
 
   tr {
     border-style: outset;
-   
+    
   }
 
   th, td{
