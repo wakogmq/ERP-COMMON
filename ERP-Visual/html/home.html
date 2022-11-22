@@ -11,20 +11,25 @@
 <body>
     
     <div class="topnav flex">
-        <div class="center col-4"><a class="active" href="#erp">ERP</a></div>  
+        <div class="center col-4"><a class="active" href="#erp"><h1>ERP</h1></a></div>  
         <div class="center col-4">
             <input type="search" name="Buscar..." id="buscar">
-            <img src="/ERP-Visual/images/lupa.png" alt="">
+            <img class="lupa" src="/ERP-Visual/images/lupa.png" alt="">
         </div>
-        <div class="dropdown right col-4">
-            
-            <img src="/ERP-Visual/images/usuario.png" alt=""> Pedro Picapiedra <img class="imgdrop dropbtn" onclick="myFunction()" src="/ERP-Visual/images/dropclose.png" alt="" >
-            <div id="myDropdown" class="dropdown-content">
-                <a href="#"><img src="/ERP-Visual/images/perfil.png" alt=""> Mi Perfil</a>
-                <a href="#"><img src="/ERP-Visual/images/notificacion.png" alt=""> Notificaciones</a> 
-                <a href="#"><img src="/ERP-Visual/images/preferencia.png" alt=""> Preferencias</a>
-                <a href="#"><img src="/ERP-Visual/images/log-out.png" alt=""> Cerrar sesión</a>
+        <div class="right col-4 flex">
+            <div class="col-4 center"><img src="/ERP-Visual/images/usuario.png" alt=""> 
+            <div class="col-4 center"><h3>Pedro Picapiedra </h3></div> 
+            <div class="col-4 center imgdrop dropbtn dropdown " onclick="myFunction()">
+                <img src="/ERP-Visual/images/dropclose.png" alt="" ></div>
+                <div id="myDropdown" class="dropdown-content">
+                    <a href="#"><img src="/ERP-Visual/images/perfil.png" alt=""> Mi Perfil</a>
+                    <a href="#"><img src="/ERP-Visual/images/notificacion.png" alt=""> Notificaciones</a> 
+                    <a href="#"><img src="/ERP-Visual/images/preferencia.png" alt=""> Preferencias</a>
+                    <a href="#"><img src="/ERP-Visual/images/log-out.png" alt=""> Cerrar sesión</a>
+                </div>
             </div>
+            
+            
         </div>
     </div>
    
