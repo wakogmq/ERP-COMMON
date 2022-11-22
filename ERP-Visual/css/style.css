@@ -98,7 +98,7 @@ input{
     background-color: #26736E;
 }
 
-<<<<<<< Updated upstream
+
 
 
 
@@ -198,6 +198,7 @@ input{
   /* Estilos tabla */
   table{
     width: 100%;
+    
   }
   
   table, th, td {
@@ -228,6 +229,7 @@ input{
     width: 100%;
     border-collapse: collapse;
     border-width: 1px;
+    margin-right: 50px;
     
   }
   
@@ -246,7 +248,7 @@ input{
     border-style: none;
   }
 
-=======
+
 .sidebar {
     height: 100%; /* 100% Full-height */
     width: 0; /* 0 width - change this with JavaScript */
@@ -309,4 +311,4 @@ input{
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
   }
->>>>>>> Stashed changes
+/*>>>>>>> Stashed changes*\
