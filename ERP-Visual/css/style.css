@@ -11,13 +11,10 @@
     src: url("/ERP-Visual/fonts/Eras-Bold/ErasBoldITC.ttf");
 }
 section{
-    margin: 4%;
+
     font-family:"Eras-Bold" serif;
 }
-div{
-    padding: 3%;
-    
-}
+
 .erp{
     color: #26736E;
 }
@@ -60,8 +57,8 @@ nav{
 nav ul li{
    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 0px 0px 70px 0px;
-    padding-top: 50px;
+    padding: 0px 0px -50px 0px;
+    margin-top: 100px;
     
 }
 
@@ -198,11 +195,12 @@ input{
   /* Estilos tabla */
   table{
     width: 100%;
+    background-color: #b9b9b9;
     
   }
   
   table, th, td {
-    border: 1px solid black;
+    border: 1px solid #26736E;
     border-collapse: collapse;
   }
   
@@ -227,15 +225,20 @@ input{
   .tabla {
     table-layout: fixed;
     width: 100%;
+  
     border-collapse: collapse;
     border-width: 1px;
     margin-right: 50px;
+    padding-top: 280px;
+    padding-left: 250px;
+    padding-right: 80px;
+    
     
   }
   
   
   th, td {
-    padding: 20px;
+    padding: 50px;
     
   }
 
