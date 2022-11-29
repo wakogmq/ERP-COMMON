@@ -1,3 +1,10 @@
+/*-------------------------------------------------------------------- PRUEBAS INICIO ---------------------------------------------------------------------------------------------------*/
+
+
+
+/*-------------------------------------------------------------------- PRUEBAS  FIN ---------------------------------------------------------------------------------------------------*/
+
+
 *{
     margin: 0;
     padding: 0;
@@ -48,14 +55,9 @@ section{
 
 
 nav{
-    background-color: rgb(107, 107, 107);
-    
-   
-    position: fixed;
-   
-    
-    text-align: center;
-    
+  background-color: rgb(107, 107, 107);
+  position: fixed;
+ text-align: center;
 }
 
 nav ul li{
@@ -105,19 +107,36 @@ img{
 }
 
 .boxicon{
-  padding: 1px;
+  /*padding: 5px;*/
+  margin-top: 3%;
+  margin-bottom: 3%;
+  font-size: 130%;
 }
+.boxiconh2{
+  padding: 5%;}
 .login {
 border: 2px solid #26736E  ;
 }
 input{
     background-color: #26736E;
 }
+
+.home_p1, .home_img1{
+  padding: 3%;
+  text-align: justify;
+}
+.home_p1 h2{
+  margin-bottom: 3%;
+  margin-top: 1%;
+  font-size: 170%;
+}
 .cajas-po {
 border:5px solid #26736E;
 border-radius: 30px;
 padding: 6%;
 background-color: #B2B2B2;
+margin-top: 3%;
+
 }
 .big-po{
   padding: 1%;
@@ -125,8 +144,18 @@ background-color: #B2B2B2;
 section{
   margin: auto 5%;
 }
+
+.cajas-info-home{
+  padding: 0 2%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  text-align: justify;
+}
 .cajas-info-home h3{
   color:#26736E;
+  text-align: center;
+  margin-bottom: 3%;
+  font-size: 135%;
 }
 
 
@@ -136,8 +165,9 @@ section{
 
 /* Add a black background color to the top navigation bar */
   .topnav {
-    overflow: hidden;
+    
     background-color: #B9B9B9;
+    padding-top: 2%;
   }
   
   /* Style the links inside the navigation bar */
@@ -191,6 +221,7 @@ section{
 
 /* Dropdown Button */
 .dropbtn {
+  overflow: hidden;
     color:  #26736E;
     padding: 16px;
     font-size: 16px;
