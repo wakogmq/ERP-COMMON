@@ -118,11 +118,11 @@ a svg:hover{
   }
 .menu a:nth-child(1){
     margin-top: 0;
-    @include border-radius(3px 3px 0 0 );
+   border-radius:(3px 3px 0 0 );
   }
 .menu a:nth-child(5){
     margin-bottom: 0;
-    @include border-radius(0 0 3px 3px);
+    border-radius:(0 0 3px 3px);
 }
 
 .menu a:hover{
