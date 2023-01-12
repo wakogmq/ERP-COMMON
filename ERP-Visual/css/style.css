@@ -461,3 +461,7 @@ hr{
   color: white;
 }
 
+.username{
+  justify-content: end;
+  display: inline-block;
+}
