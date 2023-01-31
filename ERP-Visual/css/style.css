@@ -308,6 +308,11 @@ section{
    
   }
 
+  #almacen{
+    background-color: #26736E ;
+   
+  }
+
   #compras{
     background-color: #26736E;
   }
@@ -334,6 +339,7 @@ section{
     
     
   }
+  
   
   
   th, td {
@@ -419,6 +425,9 @@ section{
   background-color: #d9d9d9;
 }
 
+.compras{
+  background-color: #d9d9d9;
+}
 
 .clientes{
   background-color: #d9d9d9;
