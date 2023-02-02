@@ -9,7 +9,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:"Eras-Bold" serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
 }
 
@@ -48,7 +48,17 @@ section{
   width: 16.66666667%;
 }
 
+#invAlmacen{
+ 
+margin-left: 400px;
+margin-top: 50px;
+}
 
+select{
+  padding: 5px;
+  background-color: #26736E;
+  color: white;
+}
 
 nav{
 
@@ -63,6 +73,9 @@ nav{
    
     padding-bottom: 100px;
   
+}
+nav ul li:hover{
+background-color: #26736E;
 }
 nav ul {
   background-color: rgb(107, 107, 107);
@@ -485,3 +498,4 @@ hr{
   justify-content: end;
   display: inline-block;
 }
+
