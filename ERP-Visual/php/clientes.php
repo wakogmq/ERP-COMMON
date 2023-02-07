@@ -47,7 +47,7 @@
   </div>
 
   <div class="botones">
-    <a href="agregar_cliente.html"><input type="button" value="Agregar" id="agregar"></a>
+    <a href="agregar_cliente.php"><input type="button" value="Agregar" id="agregar"></a>
     
   </div>
     <section class="tabla">
