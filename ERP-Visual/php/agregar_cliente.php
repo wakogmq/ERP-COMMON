@@ -13,26 +13,26 @@
         <nav>
         <ul class="nav flex-column">
             <li class="nav-item">
-              <img src="/ERP-Visual/images/casa (2).png" alt=""><a class="nav-link active" href="home.html">Home</a>
+              <img src="/ERP-Visual/images/casa (2).png" alt=""><a class="nav-link active" href="home.php">Home</a>
             </li>
             <li class="nav-item" id="clientes">
-              <img src="/ERP-Visual/images/clientes.png" alt=""><a class="nav-link" href="clientes.html">Clientes</a>
+              <img src="/ERP-Visual/images/clientes.png" alt=""><a class="nav-link" href="clientes.php">Clientes</a>
             </li>
             <li class="nav-item">
-              <img src="/ERP-Visual/images/ventas.png" alt=""><a class="nav-link" href="ventas.html">Ventas</a>
+              <img src="/ERP-Visual/images/ventas.png" alt=""><a class="nav-link" href="ventas.php">Ventas</a>
             </li>
             <li class="nav-item" >
-                <img src="/ERP-Visual/images/envios.png" alt="">   <a class="nav-link disabled" href="envios.html">Envios</a>
+                <img src="/ERP-Visual/images/envios.png" alt="">   <a class="nav-link disabled" href="envios.php">Envios</a>
             </li>
             <li class="nav-item">
                 
-                <img src="/ERP-Visual/images/compras.png" alt="">  <a class="nav-link disabled" href="compras.html">Compras</a>
+                <img src="/ERP-Visual/images/compras.png" alt="">  <a class="nav-link disabled" href="compras.php">Compras</a>
               </li>
               <li class="nav-item">
-                <img src="/ERP-Visual/images/almacen.png" alt=""><a class="nav-link disabled" href="almacen.html">Almacen</a>
+                <img src="/ERP-Visual/images/almacen.png" alt=""><a class="nav-link disabled" href="almacen.php">Almacen</a>
               </li>
               <li class="nav-item">
-               <img src="/ERP-Visual/images/proveedores.png" alt=""> <a class="nav-link disabled" href="proveedores.html">Proovedores</a>
+               <img src="/ERP-Visual/images/proveedores.png" alt=""> <a class="nav-link disabled" href="proveedores.php">Proovedores</a>
               </li>
           </ul>
         </nav>
@@ -47,7 +47,7 @@
   </div>
 
   <div class="botones">
-    <a href="clientes.html"><input type="button" value="Volver" id="volver"></a>
+    <a href="clientes.php"><input type="button" value="Volver" id="volver"></a>
     <input type="button" value="Agregar" id="agregarcliente">
     
   </div>
