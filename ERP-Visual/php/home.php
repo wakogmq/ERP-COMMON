@@ -42,18 +42,18 @@
     <section class="flex">
         <div class="big-po flex col-6 center">
             <div class="cajas-po center flex">
-                <div class="col-6 boxicon"><a href="clientes.html"><img src="/ERP-Visual/images/clientes.png" alt=""><h5>Clientes</h5></a></div>
-                <div class="col-6 boxicon"><a href="proveedores.html"><img src="/ERP-Visual/images/proveedores.png" alt=""><h5>Proveedores</h5></a></div>
+                <div class="col-6 boxicon"><a href="clientes.php"><img src="/ERP-Visual/images/clientes.png" alt=""><h5>Clientes</h5></a></div>
+                <div class="col-6 boxicon"><a href="proveedores.php"><img src="/ERP-Visual/images/proveedores.png" alt=""><h5>Proveedores</h5></a></div>
                 <div class="col-12  boxiconh2"><h2>PRINCIPALES</h2></div>
                 <div class="col-12 boxicon center"><a href="almacen.php"><img src="/ERP-Visual/images/almacen.png" alt=""><h5>Almacén</h5></a></div>
             </div>
         </div>
         <div class="big-po flex col-6 center">
             <div class="cajas-po center flex">
-                <div class="col-6 boxicon"> <a href="compras.html"><img src="/ERP-Visual/images/compras.png" alt=""><h5>Compras</h5></a></div>
-                <div class="col-6 boxicon"><a href="ventas.html"><img src="/ERP-Visual/images/ventas.png" alt=""><h5>Ventas  </h5></a></div>
+                <div class="col-6 boxicon"> <a href="compras.php"><img src="/ERP-Visual/images/compras.png" alt=""><h5>Compras</h5></a></div>
+                <div class="col-6 boxicon"><a href="ventas.php"><img src="/ERP-Visual/images/ventas.png" alt=""><h5>Ventas  </h5></a></div>
                 <div class="col-12  boxiconh2"><h2>OPERACIONES</h2></div>
-                <div class="col-12 boxicon center"><a href="envios.html"><img src="/ERP-Visual/images/envios.png" alt=""><h5>Envíos</h5></a></div>
+                <div class="col-12 boxicon center"><a href="envios.php"><img src="/ERP-Visual/images/envios.png" alt=""><h5>Envíos</h5></a></div>
             </div>
         </div>
 
