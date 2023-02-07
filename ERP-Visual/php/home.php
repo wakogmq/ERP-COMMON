@@ -42,7 +42,7 @@
     <section class="flex">
         <div class="big-po flex col-6 center">
             <div class="cajas-po center flex">
-                <div class="col-6 boxicon"><a href="clientes.html"><img src="/ERP-Visual/images/clientes.png" alt=""><h5>Clientes</h5></a></div>
+                <div class="col-6 boxicon"><a href="clientes.php"><img src="/ERP-Visual/images/clientes.png" alt=""><h5>Clientes</h5></a></div>
                 <div class="col-6 boxicon"><a href="proveedores.html"><img src="/ERP-Visual/images/proveedores.png" alt=""><h5>Proveedores</h5></a></div>
                 <div class="col-12  boxiconh2"><h2>PRINCIPALES</h2></div>
                 <div class="col-12 boxicon center"><a href="almacen.php"><img src="/ERP-Visual/images/almacen.png" alt=""><h5>Almacén</h5></a></div>
