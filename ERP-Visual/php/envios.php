@@ -49,76 +49,7 @@
   <div class="botones">
     <input type="button" value="Agregar" id="agregar">
     <input type="button" value="Rutas" id="rutas">
-  </div>
-    <section class="tabla">
-    <table>
-      <tr>
-        <th>ID</th>
-        <th>Nombre</th>
-        <th>Dirección</th>
-        <th>Email</th>
-        <th>Telefono</th>
-      </tr>
-
-      <tr>
-        <td>1</td>
-        <td>Juan Campos</td>
-        <td>Calle 20x 17 y 19 #115</td>
-        <td>carlriv.a@gmail.com</td>
-        <td>9971234567</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>Guadalupe Cetina</td>
-        <td>Calle 26 x 27 y 29 #210</td>
-        <td>papmar@gmail.com</td>
-        <td>9997352283</td>
-      </tr>
-        <tr>
-        <td>3</td>
-        <td>Javier Barrera</td>
-        <td>Calle 30 x 19 y 21 #105</td>
-        <td>garobi@gmail.com
-        </td>
-        <td>9998955432</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>Nancy Cetz</td>
-        <td>Calle 24 x 13 y 15 #203</td>
-        <td>Dolopez@gmail.com</th>
-        <td>9970359476</td>
-      </tr>
-
-      <tr>
-        <td>5</td>
-        <td>Camila Magaña</td>
-        <td>Calle 13 x 20 y 22 #124</td>
-        <td>smantap@gmail.com</th>
-        <td>9992750302</td>
-      </tr>
-
-      <tr>
-        <td>6</td>
-        <td>Mario Tún</td>
-        <td>Calle 23 x 20 y 22 #154</td>
-        <td>josscan12@gmail.com</th>
-        <td>9976579247</td>
-      </tr>
-
-      <tr>
-        <td>7</td>
-        <td>Luis Torres</td>
-        <td>Calle 24 x 21 y 23 # 208</td>
-        <td>barbiechan12@gmail.com</th>
-        <td>9995825134</td>
-      </tr>
-      
-
-      
-    </table>
-  </section>
-
+  
 
     
 </head>
