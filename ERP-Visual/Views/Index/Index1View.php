@@ -1,39 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
-    <link rel="stylesheet" href="./css/style.css">
-    <script src="/ERP-Visual/js/erp.js"></script>
-</head>
-<body>
-  
-    <div class="topnav flex">
-        <div class="center col-4"><a class="active" href="#erp"><h1>ERP</h1></a></div>  
-        <div class="center col-4">
-            <input type="search" name="Buscar..." id="buscar">
-            <img class="lupa" src="/ERP-Visual/images/lupa.png" alt="">
-        </div>
-        <div class="right col-4 flex">
-            <div class="col-4 center"><img src="/ERP-Visual/images/usuario.png" alt=""> 
-            <div class="col-4 center username"><h3>Pedro Picapiedra</h3></div> 
-            <div class="col-4 center imgdrop dropbtn dropdown " onclick="myFunction()">
-                <!--
-                <div id="myDropdown" class="dropdown-content">
-                    <a href="#"><img src="/ERP-Visual/images/perfil.png" alt=""> Mi Perfil</a>
-                    <a href="#"><img src="/ERP-Visual/images/preferencia.png" alt=""> Preferencias</a>
-                    <a href="#"><img src="/ERP-Visual/images/log-out.png" alt=""> Cerrar sesión</a>
-                </div>
-                -->
-            </div>
-            
-            
-        </div>
-    </div>
-   
-    <section class="flex">
+
+<section class="flex">
         <div class="col-6 home_img1"><img src="/ERP-Visual/images/img-home.png" alt=""></div>
         <div class="col-6 home_p1">
             <h2>¡¡ Porque somos los mejores !!</h2>
@@ -72,6 +38,3 @@
             <p>Nuestro software ERP es una herramienta rápida, fácil y flexible con la que podrás hacer crecer tu negocio en todo el mundo. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum laudantium voluptatum odio ut nihil repellendus maxime vel! Dolor eaque, maxime voluptatibus ab mollitia consequatur perferendis illo, saepe inventore reprehenderit voluptatum.</p>
         </div>
     </section>
-
-</body>
-</html>
