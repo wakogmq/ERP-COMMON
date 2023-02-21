@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://index.php",
+            "request": "launch",
+            "url": "http://index.php"
+        }
+    ]
+}
