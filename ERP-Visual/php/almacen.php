@@ -16,7 +16,7 @@
               <img src="/ERP-Visual/images/casa (2).png" alt=""><a class="nav-link active" href="home.php">Home</a>
             </li>
             <li class="nav-item" id="clientes">
-              <img src="/ERP-Visual/images/clientes.png" alt=""><a class="nav-link" href="clientes.php">Clientes</a>
+              <img src="/ERP-Visual/images/clientes.png" alt=""><a class="nav-link" href="./clientes.php">Clientes</a>
             </li>
             <li class="nav-item">
               <img src="/ERP-Visual/images/ventas.png" alt=""><a class="nav-link" href="ventas.php">Ventas</a>
