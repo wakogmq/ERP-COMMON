@@ -29,7 +29,7 @@ Paso 3: Reiniciar los servicios de Xampp
 
 CREATE DATABASE IF NOT EXISTS bd1 DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-USE bd1;
+USE mvc_09_01_23;
 
 DROP TABLE IF EXISTS articulos;
 DROP TABLE IF EXISTS fotografias;
